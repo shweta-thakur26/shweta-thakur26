@@ -1,6 +1,7 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shweta+Thakur!;Software+Engineer+%7C+Frontend+Focused+%7C+Tech+Lover;Building+Modern+Web+%26+Mobile+Apps" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=Hey%2C+I+am+Shweta+Thakur+%F0%9F%91%8B" alt="Typing SVG" />
+
 </p>
 
 ---
@@ -38,15 +39,6 @@ I'm a software engineer passionate about building seamless, real-time, and scala
 
 ---
 
-## 📌 Now
-
-- 🛠 Currently working on hybrid mobile applications & real-time features  
-- 📚 Exploring system design and advanced testing strategies  
-- ✍️ Sharpening problem-solving with competitive coding  
-- 💡 Open to collaboration on frontend-focused projects
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -62,7 +54,6 @@ I'm a software engineer passionate about building seamless, real-time, and scala
   <a href="mailto:shweta.thakur0018@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/shweta-thakur-855849193"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/shweta-thakur26"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://shweta-thakur.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-1D9BF0?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 </p>
 
 ---
