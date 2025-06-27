@@ -7,7 +7,7 @@
 
 ## 💫 About Me
 
-I'm a software engineer passionate about building seamless, real-time, and scalable user experiences — especially across web and mobile platforms. My work blends design precision with robust engineering to create apps that **perform well** and **look great**.
+I'm a software engineer passionate about building seamless, real-time, and scalable user experiences especially across web and mobile platforms. My work blends design precision with robust engineering to create apps that **perform well** and **look great**.
 
 ---
 
@@ -22,6 +22,7 @@ I'm a software engineer passionate about building seamless, real-time, and scala
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" title="React Native" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/ionic-team/ionic-framework/main/.github/assets/icon/icon.png" title="Ionic" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="40" height="40"/>
