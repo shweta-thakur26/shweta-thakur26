@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Software Engineer · Web & Mobile Development
+  Software Engineer · Web & Mobile Application Development
 </p>
 
 ---
