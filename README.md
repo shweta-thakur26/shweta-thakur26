@@ -1,14 +1,7 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1D9BF0&center=true&vCenter=true&width=520&lines=%F0%9F%91%8B+Hey%2C+I+am+Shweta+Thakur"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  Software Engineer · Web & Mobile Application Development
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1D9BF0&center=true&vCenter=true&width=435&lines=%F0%9F%91%8B+Hey%2C+I+am+Shweta+Thakur" alt="Typing SVG" />
 </p>
 
 ---
